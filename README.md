@@ -4,7 +4,7 @@ This project implements a machine learning-based system to classify SMS messages
 This project implements a machine learning-based system to classify SMS messages as spam or ham (non-spam). The system leverages natural language processing (NLP) techniques to extract features from text messages and applies classification algorithms to detect spam messages automatically.
 
 
-Author : [SyedFurqanAli540702](https://github.com/SyedFurqanAli540702)
+Author : [SyedFurqanAli](https://github.com/SyedFurqanAli540702)
 
 
 KEY FEATURES:
