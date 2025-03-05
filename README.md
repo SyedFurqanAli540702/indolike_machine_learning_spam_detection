@@ -1,8 +1,8 @@
 # indolike_machine_learning_spam_detection
-Author : [SyedFurqanAli540702](https://github.com/SyedFurqanAli540702)
-This project implements a machine learning-based system to classify SMS messages as spam or ham (non-spam). The system leverages natural language processing (NLP) techniques to extract features from text messages and applies classification algorithms to detect spam messages automatically.
-This project implements a machine learning-based system to classify SMS messages as spam or ham (non-spam). The system leverages natural language processing (NLP) techniques to extract features from text messages and applies classification algorithms to detect spam messages automatically.
 
+This project implements a machine learning-based system to classify SMS messages as spam or ham (non-spam). The system leverages natural language processing (NLP) techniques to extract features from text messages and applies classification algorithms to detect spam messages automatically.
+This project implements a machine learning-based system to classify SMS messages as spam or ham (non-spam). The system leverages natural language processing (NLP) techniques to extract features from text messages and applies classification algorithms to detect spam messages automatically.
+Author : [SyedFurqanAli540702](https://github.com/SyedFurqanAli540702)
 KEY FEATURES:
 Ham (Legitimate SMS)
 Spam (Unwanted Promotional/Fraud Messages)
