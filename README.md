@@ -20,9 +20,7 @@ Feature Extraction: Converts text messages into numerical features using techniq
 
 Spam Classification: Utilizes machine learning models such as Naive Bayes, Logistic Regression, or Support Vector Machines (SVM) for message classification.
 
-Model Evaluation: Assesses model performance using accuracy, precision, recall, and F1-score metrics.
+🤝 Contributing
+Contributions are welcome! Feel free to raise issues or submit pull requests.
 
-User Interface: Provides a simple interface for users to input SMS messages and receive predictions.
-
-Data Privacy: Ensures secure handling of user input data without storing sensitive information.
 
